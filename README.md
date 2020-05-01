@@ -130,4 +130,7 @@ To delete the user account from the Library Management System, click on File>Del
 For exiting from the system click on File > Exit.
 
 <img src="Report/1.jpg" width=600>
+<img src="Report/2.jpg" width=600>
+<img src="Report/3.jpg" width=600>
+<img src="Report/4.jpg" width=600>
 
