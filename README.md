@@ -129,5 +129,5 @@ To delete the user account from the Library Management System, click on File>Del
 19. Exiting from system:
 For exiting from the system click on File > Exit.
 
-<img src="E:\1.jpeg" width=600>
+<img src="ansh-sahu/library-management-project-in-java/Report/1.jpeg" width=600>
 
